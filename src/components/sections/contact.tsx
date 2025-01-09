@@ -14,7 +14,7 @@ export const Contact = () => {
                 </p>
                 <div className="flex flex-col items-center space-y-4">
                     <Image
-                        src="/images/profile.556a0416.jfif"
+                        src="/images/profile.556a0416.webp"
                         alt="Profile"
                         width={100}
                         height={100}

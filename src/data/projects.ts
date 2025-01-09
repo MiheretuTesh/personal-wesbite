@@ -2,7 +2,7 @@ export const projects = [
     {
         title: 'Personal Website',
         description: 'My personal website built with Next.js, TypeScript, shadcn/ui, and Tailwind CSS.',
-        image: '/images/projects/portfolio.png',
+        image: '/images/projects/portfolio.webp',
         status: {
             text: 'View Source',
             link: 'https://github.com/MiheretuTesh/Personal-Website',
@@ -14,7 +14,7 @@ export const projects = [
     {
         title: 'Hire Armada Website',
         description: 'A platform that bridges developers and employers, making it easier to connect and collaborate.',
-        image: '/images/projects/hire-armada.png',
+        image: '/images/projects/hire-armada.webp',
         status: {
             text: 'View Source',
             link: 'https://www.hirearmada.com/',
@@ -26,7 +26,7 @@ export const projects = [
         title: 'Scraplib',
         description:
             'A project to scrape social media and websites for lead generation purposes using AI models and smart analysis.',
-        image: '/images/projects/scraplib.png',
+        image: '/images/projects/scraplib.webp',
         status: {
             text: 'View Source',
             link: 'https://www.scraplib.com/',
@@ -38,7 +38,7 @@ export const projects = [
     {
         title: 'Construction Management System',
         description: 'A system to manage construction projects efficiently.',
-        image: '/images/projects/ambio.png',
+        image: '/images/projects/ambio.webp',
         status: {
             text: 'View Source',
             link: 'https://www.ambio.co/',
@@ -50,7 +50,7 @@ export const projects = [
         title: 'PayLinq',
         description:
             'PayLinq simplifies your rent payments and helps boost your credit score, empowering you to take control of your financial future.',
-        image: '/images/projects/paylinq.png',
+        image: '/images/projects/paylinq.webp',
         status: {
             text: 'View Source',
             link: 'https://paylinq.vercel.app/',

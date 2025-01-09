@@ -41,7 +41,7 @@ const HomePage = () => {
                     </div>
                 </div>
                 <Image
-                    src="/images/profile.556a0416.jfif"
+                    src="/images/profile.556a0416.webp"
                     alt="Profile"
                     width={500}
                     height={500}
