@@ -34,11 +34,7 @@ export const DesktopNav = () => {
             <Separator orientation="vertical" className="h-8" />
             <div className="flex items-center space-x-1">
                 <ModeToggle />
-                <NextLink
-                    href="https://github.com/BadEnd777/Portfolio-Website"
-                    target="_blank"
-                    aria-label="GitHub repository"
-                >
+                <NextLink href="https://github.com/MiheretuTesh" target="_blank" aria-label="GitHub repository">
                     <Button variant="ghost" size="icon" aria-label="GitHub repository">
                         <span className="icon-[tabler--brand-github] size-5" />
                     </Button>

@@ -14,11 +14,11 @@ export const Contact = () => {
                 </p>
                 <div className="flex flex-col items-center space-y-4">
                     <Image
-                        src="/images/profile.webp"
+                        src="/images/profile.556a0416.jfif"
                         alt="Profile"
-                        width={400}
-                        height={400}
-                        className="size-[300px] rounded-full md:size-[400px]"
+                        width={100}
+                        height={100}
+                        className="size-[100px] rounded-full md:size-[100px]"
                         priority
                     />
                     <Typography variant="h1">Contact Information</Typography>

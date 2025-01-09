@@ -21,8 +21,8 @@ export const generateMetadata = async ({ params }: BlogTagPageProps): Promise<Me
 
     const capita = capitalize(tag)
 
-    const title = `BadEnd Blog - ${capita}`
-    const description = `Explore a collection of articles and blog posts with tag ${capita} by BadEnd. Discover more ${capita} related blogs.`
+    const title = `Miheretu Blog - ${capita}`
+    const description = `Explore a collection of articles and blog posts with tag ${capita} by Miheretu. Discover more ${capita} related blogs.`
 
     return {
         title: {

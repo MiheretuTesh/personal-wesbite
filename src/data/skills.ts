@@ -30,14 +30,15 @@ export const skills = [
             { name: 'ASP.NET', icon: 'icon-[simple-icons--csharp]' },
         ],
     },
+
     {
-        title: 'Chatbot Development',
-        description: 'I have experience building chatbots for various platforms.',
+        title: 'AWS',
+        description: 'I have experience working with various AWS services.',
         items: [
-            { name: 'Discord', icon: 'icon-[simple-icons--discord]' },
-            { name: 'LINE', icon: 'icon-[simple-icons--line]' },
-            { name: 'Telegram', icon: 'icon-[simple-icons--telegram]' },
-            { name: 'Facebook Messenger', icon: 'icon-[simple-icons--facebook]' },
+            { name: 'EC2', icon: 'icon-[simple-icons--amazonec2]' },
+            { name: 'S#', icon: 'icon-[simple-icons--amazons3]' },
+            { name: 'Route53', icon: 'icon-[simple-icons--amazonroute53]' },
+            { name: 'RDS', icon: 'icon-[simple-icons--amazonrds]' },
         ],
     },
     {

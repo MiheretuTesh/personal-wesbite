@@ -5,7 +5,7 @@ import type { Metadata } from 'next'
 
 const title = 'Projects'
 const description =
-    'Explore a collection of innovative projects by BadEnd. Discover our creative endeavors, ranging from web development to design and technology.'
+    'Explore a collection of innovative projects by Miheretu. Discover our creative endeavors, ranging from web development to design and technology.'
 
 export const metadata: Metadata = {
     title,

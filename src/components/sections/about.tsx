@@ -41,8 +41,8 @@ export const About = () => {
                     ))}
                 </div>
             </div>
-            <div className="flex flex-col space-y-6">
-                <Typography variant="h2">Biography</Typography>
+            {/* <div className="flex flex-col space-y-6"> */}
+            {/* <Typography variant="h2">Biography</Typography>
                 <div className="grid grid-cols-1 gap-3 md:grid-cols-2">
                     {biography.map((item) => (
                         <Card key={item.year} className="w-full">
@@ -54,8 +54,8 @@ export const About = () => {
                             </CardContent>
                         </Card>
                     ))}
-                </div>
-            </div>
+                </div> */}
+            {/* </div> */}
             <div className="flex flex-col space-y-6">
                 <Typography variant="h2">My Skills</Typography>
                 <SkillsCarousel />

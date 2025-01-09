@@ -6,7 +6,7 @@ import type { Metadata } from 'next'
 
 const title = 'Blog'
 const description =
-    'Explore a collection of articles and blog posts by BadEnd. Discover a variety of topics, ranging from web development to design and technology.'
+    'Explore a collection of articles and blog posts by Miheretu. Discover a variety of topics, ranging from web development to design and technology.'
 
 export const metadata: Metadata = {
     title,

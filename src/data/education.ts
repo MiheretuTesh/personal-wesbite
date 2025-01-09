@@ -1,20 +1,14 @@
 export const education = [
     {
-        title: 'Ratbamrung School, Phichit | May 2015',
-        subtitle: 'Elementary School Diploma',
+        title: 'Addis Ababa University | 2023',
+        subtitle: 'Software Engineering',
         description:
-            'Graduated from Ratbamrung School in Phichit. I excelled in maths and science, and developed a passion for technology and programming.',
+            'Graduated with a degree in Software Engineering. Gained extensive knowledge in software development, algorithms, and system design.',
     },
     {
-        title: 'Ratbamrung School, Phichit | May 2019',
-        subtitle: 'High School Diploma',
+        title: 'AWS Certified Cloud Practitioner | 2024',
+        subtitle: 'Amazon Web Services',
         description:
-            'Graduated top of my class from Ratbamrung School in Phichit. I excelled in maths and science, and developed a passion for technology and programming.',
-    },
-    {
-        title: 'Phichit Technical College, Phichit | May 2022',
-        subtitle: 'Vocational Certificate in Business Computer',
-        description:
-            'Completed a Vocational Certificate program in Business Computer at Phichit Technical College. This program covered programming languages like JavaScript, C#, and Go, as well as web development skills, including HTML and CSS. I also gained expertise in database management with MongoDB, Firebase, Google Sheets, and MySQL. This education enhanced my technical skills, problem-solving abilities, and attention to detail.',
+            'Completed the AWS Certified Cloud Practitioner course. Acquired foundational knowledge of AWS cloud concepts, services, and best practices.',
     },
 ]

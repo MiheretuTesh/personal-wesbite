@@ -5,7 +5,7 @@ import type { Metadata } from 'next'
 
 const title = "Let's Connect"
 const description =
-    'Get in touch with BadEnd, a passionate Full Stack Developer. Reach out to discuss projects, collaborations, or anything else.'
+    'Get in touch with Miheretu, a passionate Full Stack Developer. Reach out to discuss projects, collaborations, or anything else.'
 
 export const metadata: Metadata = {
     title,

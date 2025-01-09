@@ -30,7 +30,7 @@ export const generateMetadata = async ({ params }: BlogPostPageProps): Promise<M
 
     const image = isExternal ? preview : `${BASE_URL}${preview}`
 
-    const title = `BadEnd Blog - ${metaTitle}`
+    const title = `Miheretu Blog - ${metaTitle}`
 
     return {
         title: {

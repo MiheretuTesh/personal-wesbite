@@ -28,15 +28,15 @@ export const MobileNav = () => {
                         </NextLink>
                     ))}
                     <DropdownMenuSeparator />
-                    <DropdownMenuItem>
+                    {/* <DropdownMenuItem>
                         <NextLink
-                            href="https://github.com/BadEnd777/Portfolio-Website"
+                            href="https://github.com/MiheretuTesh"
                             target="_blank"
                             aria-label="GitHub repository"
                         >
                             View on GitHub
                         </NextLink>
-                    </DropdownMenuItem>
+                    </DropdownMenuItem> */}
                 </DropdownMenuContent>
             </DropdownMenu>
         </div>
